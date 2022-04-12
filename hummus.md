@@ -5,3 +5,4 @@
 - salt
 
 We added a different line.
+This line added Kate's copy
